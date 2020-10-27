@@ -1,3 +1,13 @@
+This repository is meant to be used as an example on top of `create-next-app`. Do so with
+
+```shell
+npx create-next-app nextjs-ts-blog --example "https://github.com/wwmoraes/nextjs-ts"
+```
+
+Please refer to the [Next.js docs](https://nextjs.org/learn/basics/create-nextjs-app/setup) about further setup.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
